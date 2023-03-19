@@ -1,9 +1,9 @@
 from pyrogram import Client, filters, idle
 from pyrogram.types import InputMediaPhoto, Message
 
-API_ID = 0
-API_HASH = "asdfh"
-BOT_TOKEN = "12345:asdfg"
+API_ID = 9774346
+API_HASH = "a92aed7d74654a563af4b07efbcd88e9"
+BOT_TOKEN = "6276329771:AAH2a8qTcEU4GaFxpQ062uoG09ndFE7WuSA"
 
 app = Client(name="app", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
 
